@@ -1,3 +1,6 @@
-streamlit
+numpy
+pandas
 requests
-
+scikit-learn
+streamlit
+wordcloud
