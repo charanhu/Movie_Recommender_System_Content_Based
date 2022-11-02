@@ -1,6 +1,6 @@
 # Movie Recommendation System using Content Based Filtering
 
-!![Charan H U](https://github.com/charanhu/Movie_Recommender_System_Content_Based/blob/master/Screenshot%20(10).png)
+![Charan H U](https://github.com/charanhu/Movie_Recommender_System_Content_Based/blob/master/Screenshot%20(10).png)
 
 
 Based on previous activities or explicit feedback, content-based filtering recommends other items similar to what the user likes.
